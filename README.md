@@ -1,4 +1,4 @@
-# Autodidact Coder - English
+# Autodidact Coder - English (THIS REPOSITORY IS NOT FINISH)
 
 This repository is part of the *Resources/Documentation* project, aimed at promoting self-taught learning and personal development. We offer a selection of free and accessible resources for anyone looking to learn and improve in the world of programming.
 
